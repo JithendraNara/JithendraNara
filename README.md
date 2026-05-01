@@ -14,11 +14,11 @@
 
 I build practical AI agent platforms, analytics systems, and full-stack products. My current stack is converging around **DigitalOcean for real backends**, **Cloudflare for edge/security/AI Gateway**, and **Vercel for polished frontends and previews**.
 
-[jithendranara.dev](https://jithendranara.dev) · [Email](mailto:jithendraNara.nara1@gmail.com)
+[jithendranara.dev](https://jithendranara.dev) · [Learning Timeline](https://jithendranara.dev/timeline.html) · [Email](mailto:jithendra.nara1@gmail.com)
 
 ## Current Focus
 
-- **Agent systems that actually operate** — repo triage, incident response, research workflows, MCP tools, and human-in-the-loop approvals.
+- **Agent systems that actually operate** — OpenClaw workspaces, Hermes Agent reliability, repo triage, incident response, MCP tools, and human-in-the-loop approvals.
 - **MiniMax + Cloudflare AI Gateway** — BYOK routing, caching, observability, and safer provider control.
 - **Data and analytics products** — RAG copilots, dashboards, lakehouse patterns, health/jobs intelligence, and operational metrics.
 - **Deployment discipline** — reducing repo sprawl, consolidating runtimes, and putting each project on the right platform.
@@ -51,6 +51,7 @@ I build practical AI agent platforms, analytics systems, and full-stack products
 ## Labs And Templates
 
 - 🧬 **[openclaw-core-workspace](https://github.com/JithendraNara/openclaw-core-workspace)** — OpenClaw memory, sync, and execution modules for agent development.
+- 🧵 **[hermes-agent](https://github.com/JithendraNara/hermes-agent)** — Hermes Agent reliability work around async bridges, coroutine warnings, and long-running agent execution.
 - 🛰️ **[event-tracker-agents](https://github.com/JithendraNara/event-tracker-agents)** — monitoring agent templates for sports, policy, alerts, and scheduled automation.
 - 🤖 **[create-gemini-telegram-agent](https://github.com/JithendraNara/create-gemini-telegram-agent)** — scaffold CLI for Telegram + Gemini agents.
 - 🎲 **[readme-roulette](https://github.com/JithendraNara/readme-roulette)** — playful Cloudflare Pages app that surfaces chaotic READMEs and developer folklore.
@@ -70,7 +71,8 @@ I build practical AI agent platforms, analytics systems, and full-stack products
 ## Connect
 
 [![Website](https://img.shields.io/badge/-jithendranara.dev-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://jithendranara.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jithendraNara.nara1@gmail.com)
+[![Timeline](https://img.shields.io/badge/-Learning_Timeline-00ff88?style=flat-square&logo=readthedocs&logoColor=111827)](https://jithendranara.dev/timeline.html)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jithendra.nara1@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithendraNara)
 
 ---
