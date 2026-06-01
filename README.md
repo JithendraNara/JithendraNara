@@ -14,7 +14,7 @@
 
 I build practical AI agent platforms, analytics systems, and full-stack products. My current stack is converging around **DigitalOcean for real backends**, **Cloudflare for edge/security/AI Gateway**, and **Vercel for polished frontends and previews**.
 
-[jithendranara.dev](https://jithendranara.dev) · [Learning Timeline](https://jithendranara.dev/timeline.html) · [Email](mailto:jithendra.nara1@gmail.com)
+[jithendranara.dev](https://jithendranara.dev) · [Learning Timeline](https://jithendranara.dev/#timeline) · [Email](mailto:jithendra.nara1@gmail.com)
 
 ## Current Focus
 
